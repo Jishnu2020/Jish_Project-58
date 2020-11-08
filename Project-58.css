@@ -11,7 +11,7 @@ h2 {
   font-size: 40px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-img {
+Book {
   border-radius: 50%;
   width: 50%;
 }
@@ -44,4 +44,11 @@ cursor: pointer;
 }
 #thep {
 font-family: 'Roboto Condensed', sans-serif;
+}
+html:hover {
+scroll-behavior: smooth
+}
+#Reviews {
+font-family: 'Oswald', sans-serif;
+color: darkblue;
 }
